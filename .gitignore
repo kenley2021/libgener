@@ -1,0 +1,7 @@
+.idea
+__pycache__
+dist
+build
+*.pyc
+torrents
+libgener.egg-info
